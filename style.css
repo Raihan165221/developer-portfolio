@@ -56,6 +56,10 @@ h2{
     background-position: right;
 }
 
+#big-dream-p{
+    padding-right: 130px;;
+}
+
 .box-shadow{
     box-shadow: 10px 10px 40px gray;
     width: 40%;
